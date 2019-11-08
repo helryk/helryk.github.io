@@ -1,0 +1,44 @@
+h2{
+	color:4BFF00;
+}
+
+body{
+
+	 margin-left: 20px;
+}
+.text{
+	background-color: #ff0000;
+	border:3px solid yellow;
+	border-radius: 10px
+}
+.arbol{
+
+	background-color: #ff00bb;
+	border:3px solid yellow;
+	border-radius: 10px
+
+}
+.coche{
+	background-color: #00a8ff;
+	border:3px solid yellow;
+	border-radius: 10px
+}
+.casa{
+	background-color: #f8ff00;
+	border:3px solid yellow;
+	border-radius: 10px
+}
+
+
+input[type=submit] {
+
+	background-color: #48930e;
+	border:3px solid yellow;
+	border-radius: 10px
+}
+input[type=reset] {
+
+	background-color: #ff0000;
+	border:3px solid yellow;
+	border-radius: 10px
+}

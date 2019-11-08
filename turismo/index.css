@@ -1,0 +1,50 @@
+body {
+
+background-color: #72D5D8
+
+}
+
+#arbol {
+
+display:table;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+table {
+
+border-color: #FF6D00;
+border-collapse: separate;
+
+
+}
+
+a:hover{
+
+color:green;
+font-size: 20px;
+
+}
+a:visited{
+
+color:red;
+
+}
+
+
+caption{
+
+	font-family: calibri 
+}
+
+ 
+
+.minion{
+
+
+	width: 400px;
+	height:400px;
+
+}
+

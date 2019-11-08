@@ -1,0 +1,16 @@
+p {color:pink;}
+.grisote{
+	color:gray;
+	border:dotted;
+	text-align:right;
+	margin:2px
+
+}
+.perro{
+	color:pink;
+	border:dotted;
+	text-align:left;
+	margin:90px;
+	border:90px;
+}
+.gato
